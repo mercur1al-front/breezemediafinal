@@ -145,27 +145,33 @@ body{
     margin: 0px;
     padding: 0px;
     width: 100%;
+    margin-top: 10px;
 }
 .welcometext {
-    margin-left: 35px;
+    margin-left: 40px;
     display: inline-block;
-    font-size: 40px;
+    font-size: 32px;
     font-family: "FuturaBT";
-    color: rgb(255, 255, 255);
+    color: rgb(216, 216, 216);
+    line-height: 0.844;
+    text-align: left;
     text-shadow: 1.414px 1.414px 3px rgba(0, 0, 0, 0.004);
 }
 .tobreezmedia {
+    margin-right: 40px;
     display: inline-block;
-    font-size: 24px;
+    font-size: 18.669px;
     font-family: "FuturaBT";
     color: rgb(0, 235, 255);
+    text-align: left;
 }
 .profweb {
-    margin-left: 40px;
+    margin-left: 45px;
     display: inline-block;
     font-size: 13.335px;
-    font-family: "Myriad Pro";
-    color: rgb(189, 189, 189);
+    font-family: "FuturaBT";
+    color: rgb(92, 92, 92);
+    text-align: left;
 }
 .welcontent{
     display: inline-block;
