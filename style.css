@@ -34,6 +34,7 @@ body{
     background-image: url(images/Logo.png);
     background-repeat: no-repeat;
     transition: 0.5s;
+    cursor: pointer;
 }
 .logomenu1 {
     width: 98px;
@@ -297,6 +298,7 @@ body{
 }
 .column1 .fromtheblog .fromblog1box .fromblog1boximage:hover{
     background-image: url(images/fromimage1_05hover_09.png);
+    cursor: pointer;
 } 
 .column1 .fromtheblog .fromblog1box .fromblog1boxbg{
     float: left;
@@ -319,6 +321,7 @@ body{
 }
 .column1 .fromtheblog .fromblog2box .fromblog2boximage:hover{
     background-image: url(images/fromimage2_05hover_09_11.png);
+    cursor: pointer;
 } 
 .column1 .fromtheblog .fromblog2box .fromblog2boxbg{
     float: left;
@@ -341,6 +344,7 @@ body{
 }
 .column1 .fromtheblog .fromblog3box .fromblog3boximage:hover{
     background-image: url(images/fromimage3_05hover_09_17.png);
+    cursor: pointer;
 } 
 .column1 .fromtheblog .fromblog3box .fromblog3boxbg{
     float: left;
@@ -363,6 +367,7 @@ body{
 }
 .column1 .fromtheblog .fromblog4box .fromblog4boximage:hover{
     background-image: url(images/fromimage4_05hover_09_19.png);
+    cursor: pointer;
 } 
 .column1 .fromtheblog .fromblog4box .fromblog4boxbg{
     float: left;
@@ -438,6 +443,7 @@ body{
     background-repeat: no-repeat;
     top: 54px;
     left: -16px;
+    cursor: pointer;
 }
 .column2 .column2box .rightbutton:hover{
     width: 32px;
@@ -447,6 +453,7 @@ body{
     background-repeat: no-repeat;
     top: 54px;
     right: -16px;
+    cursor: pointer;
 }
 .column2 .htmlcss .htmlcsslogo .htmlcsstext {
     margin-left: 40px;
@@ -509,6 +516,7 @@ body{
     height: 96px;
     margin-top: 30px;
     margin-left: 32px;
+    cursor: pointer;
 }
 .column2 .column2box .button {
     margin-top: 9px;
@@ -525,6 +533,7 @@ body{
 }
 .column2 .column2box .button:hover{
     color: rgb(171, 235, 255);
+    cursor: pointer;
 }
 .column2 .column2box .bluespan{
     color: rgb(171, 235, 255);
@@ -573,6 +582,7 @@ body{
     background-repeat: no-repeat;
     top: 54px;
     left: -16px;
+    cursor: pointer;
 }
 .column2 .column2box2 .rightbutton:hover{
     width: 32px;
@@ -582,6 +592,7 @@ body{
     background-repeat: no-repeat;
     top: 54px;
     right: -16px;
+    cursor: pointer;
 }
 .column2 .wordpress .wordpresslogo .wordpresstext {
     margin-left: 40px;
@@ -644,6 +655,7 @@ body{
     height: 96px;
     margin-top: 30px;
     margin-left: 32px;
+    cursor: pointer;
 }
 .column2 .column2box2 .button {
     margin-top: 9px;
@@ -660,6 +672,7 @@ body{
 }
 .column2 .column2box2 .button:hover{
     color: rgb(171, 235, 255);
+    cursor: pointer;
 }
 .column2 .column2box2 .bluespan{
     color: rgb(171, 235, 255);
@@ -673,7 +686,7 @@ body{
     min-height: 210px;
     margin-top: 50px;
     padding: 0px;
-  }
+}
 .column2 .column2box3 {
   float: left;
   background-image: url(images/column2box_05_03.png);
@@ -708,6 +721,7 @@ body{
     background-repeat: no-repeat;
     top: 54px;
     left: -16px;
+    cursor: pointer;
 }
 .column2 .column2box3 .rightbutton:hover{
     width: 32px;
@@ -717,6 +731,7 @@ body{
     background-repeat: no-repeat;
     top: 54px;
     right: -16px;
+    cursor: pointer;
 }
 .column2 .freebies .freebieslogo .freebiestext {
     margin-left: 40px;
@@ -779,6 +794,7 @@ body{
     height: 96px;
     margin-top: 30px;
     margin-left: 32px;
+    cursor: pointer;
 }
 .column2 .column2box3 .button {
     margin-top: 9px;
@@ -795,6 +811,7 @@ body{
 }
 .column2 .column2box3 .button:hover{
     color: rgb(171, 235, 255);
+    cursor: pointer;
 }
 .column2 .column2box3 .bluespan{
     color: rgb(171, 235, 255);
@@ -892,13 +909,338 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 50% 50%;
+    cursor: pointer;
 }
 .bgWonder a:hover {
     color: rgb(171, 235, 255);
+    cursor: pointer;
 }
-  
-  
+.portfoliocolumn1 {
+    float: left;
+    width: 722px;
+    min-height: 955px;
+    margin: 0px;
+    padding: 0px;
+}
+.portfoliocolumn1 .breezmediaportfolio{
+    width: 722px;
+    height: 192px;
+    background: url(images/portfoliocolumn1firstbg_02_02.png);
+}
+.portfoliocolumn1 .breezmediaportfolio .breezmediaportfoliologo .breezmediaportfoliotext {
+    margin-top: 25px;
+    margin-left: 40px;
+    display: inline-block;
+    font-size: 32px;
+    font-family: "Myriad Pro";
+    color: rgb(255, 255, 255);
+    line-height: 0.844;
+    text-align: left;
+    text-shadow: 1.414px 1.414px 3px rgba(0, 0, 0, 0.004);
+}
+.portfoliocolumn1 .breezmediaportfolio .breezmediaportfoliologo .breezmediaportfoliomedia {
+    margin-left: 15px;
+    display: inline-block;
+    font-size: 18.669px;
+    font-family: "Myriad Pro";
+    color: rgb(171, 235, 255);
+    text-align: left;
+}
+.portfoliocolumn1 .breezmediaportfolio .breezmediaportfoliologo .breezmediaportfolioprofweb {
+    margin-left: 40px;
+    font-size: 13.335px;
+    font-family: "FuturaBT";
+    color: rgb(92, 92, 92);
+    text-align: left;
+}
+.portfoliocolumn1 .breezmediaportfolio .text2 {
+    margin-top: 20px;
+    margin-left: 40px;
+    font-size: 12px;
+    font-family: "Tahoma";
+    color: rgb(222, 222, 222);
+    text-align: left;
+    line-height: 1.2;
+    width: 85%;
+}
+.portfoliocolumn1 .breezmediaportfolio .text2 .bluespan {
+    color: rgb(171, 235, 255);
+}
+.portfoliocolumn1 .latestportfolio{
+    width: 722px;
+    height: 764px;
+    background: url(images/portfoliocolumn1firstbg_02_02_04.png);
+}
+.portfoliocolumn1 .latestportfolio .latesportfoliologo .latesportfoliotext {
+    margin-top: 25px;
+    margin-left: 40px;
+    display: inline-block;
+    font-size: 32px;
+    font-family: "Myriad Pro";
+    color: rgb(255, 255, 255);
+    line-height: 0.844;
+    text-align: left;
+    text-shadow: 1.414px 1.414px 3px rgba(0, 0, 0, 0.004);
+}
+.portfoliocolumn1 .latestportfolio .latesportfoliologo .latesportfoliomedia {
+    margin-left: 15px;
+    display: inline-block;
+    font-size: 18.669px;
+    font-family: "Myriad Pro";
+    color: rgb(171, 235, 255);
+    text-align: left;
+}
+.portfoliocolumn1 .latestportfolio .latesportfoliologo .latesportfolioprofweb {
+    margin-left: 40px;
+    font-size: 13.335px;
+    font-family: "FuturaBT";
+    color: rgb(92, 92, 92);
+    text-align: left;
+}
+.portfoliocolumn1 .latestportbox{
+    float: left;
+    width: 312px;
+    height: 188px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.portfoliocolumn1 .latestportbox:nth-child(2n){
+    margin-left: 44px;
+}
+.portfoliocolumn1 .latestportbox .latestportboximage{
+    float: left;
+    width: 312px;
+    height: 98px;
+    background-image: url(images/portboximg1_08.png);
+}
+.portfoliocolumn1 .latestportbox .latestportboximage:hover{
+    cursor: pointer;
+    background-image: url(images/portboximg1_hover_08.png);
+}
+.portfoliocolumn1 .latestportbox .latestportboxbg{
+    float: left;
+    width: 312px;
+    height: 90px;
+    background-image: url(images/portboximg2_10.png);
+}
+.portfoliocolumn1 .latestportbox .latestportboxlogo1{
+    font-size: 16px;
+    font-family: "Arial";
+    color: rgb(255, 255, 255);
+    line-height: 1.687;
+    text-align: left;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+.portfoliocolumn1 .latestportbox .latestportboxtext1{
+    font-size: 10.668px;
+    font-family: "Tahoma";
+    color: rgb(255, 255, 255);
+    line-height: 1.125;
+    text-align: left;
+    margin-top: 5px;
+    margin-left: 15px;
+    margin-right: 5px;
+}
+.latestportboxtext1 .bluespan{
+    color: rgb(171, 235, 255);
+}
+.latestportboxtext1 .underspan{
+    text-decoration-line: underline;
+}
+.latestportfolio .latestportbutton1 {
+    color: rgb(255, 255, 255);
+    margin-top: 10px;
+    margin-right: 35px;
+    float: right;
+    width: 30px;
+    height: 30px;
+    background-image: url(images/Off\ 2.png);
+}
+.latestportfolio .latestportbutton1 p{
+    margin-top: 25%;
+    margin-left: 40%;
+}
+.latestportfolio .latestportbutton2 {
+    color: rgb(255, 255, 255);
+    margin-top: 10px;
+    margin-right: 6px;
+    float: right;
+    width: 30px;
+    height: 30px;
+    background-image: url(images/Off\ 2.png);
+}
+.latestportfolio .latestportbutton2 p{
+    margin-top: 25%;
+    margin-left: 45%;
+}
+.latestportfolio .latestportbutton1:hover {
+    cursor: pointer;
+    color: rgb(90, 90, 90);
+    background-image: url(images/On.png);
+}
+.latestportfolio .latestportbutton2:hover {
+    cursor: pointer;
+    color: rgb(90, 90, 90);
+    background-image: url(images/On.png);
+}
+.portfoliocolumn2 {
+    float: left;
+    width: 278px;
+    min-height: 955px;
+    margin: 0px;
+    padding: 0px;
+    background-image: url(images/portfoliocolumn2bg_03.png);
+}
+.portfoliocolumn2 .portfolionavigationotext{
+    margin-top: 30px;
+    margin-left: 15px;
+    display: inline-block;
+    font-size: 32px;
+    font-family: "Myriad Pro";
+    color: rgb(255, 255, 255);
+    line-height: 0.844;
+    text-align: left;
+    text-shadow: 1.414px 1.414px 3px rgba(0, 0, 0, 0.004);
+}
+.portfoliocolumn2 .portfolionavigationomedia{
+    font-size: 18.669px;
+    font-family: "FuturaBT";
+    color: rgb(170, 170, 170);
+    line-height: 1.446;
+    text-align: left;
+    display: inline-block;
+}
+.portfoliocolumn2 .navigpanel1{
+    width: 276px;
+    height: 35px;
+    background-image: url(images/spisbg_03.jpg);
+    color: rgb(255, 255, 255);
+    margin-left: 1px;
+}
+.portfoliocolumn2 .navigpanel2{
+    width: 276px;
+    height: 34px;
+    background-image: url(images/spisbg_04.jpg);
+    color: rgb(255, 255, 255);
+    margin-left: 1px;
+}
+.portfoliocolumn2 .navigpanel3{
+    width: 276px;
+    height: 35px;
+    background-image: url(images/spisbg_05.jpg);
+    color: rgb(255, 255, 255);
+    margin-left: 1px;
+}
+.portfoliocolumn2 .navigpanel4{
+    width: 276px;
+    height: 35px;
+    background-image: url(images/spisbg_06.jpg);
+    color: rgb(255, 255, 255);
+    margin-left: 1px;
+}
+.portfoliocolumn2 .navigpanel5{
+    width: 276px;
+    height: 32px;
+    background-image: url(images/spisbg_07.png);
+    color: rgb(255, 255, 255);
+    margin-left: 1px;
+}
+.portfoliocolumn2 .navigpanel1:hover{
+    cursor: pointer;
+    color: rgb(128, 128, 128);
+    background-image: url(images/spisbg_hover_03_04.png);
+}
+.portfoliocolumn2 .navigpanel2:hover{
+    cursor: pointer;
+    color: rgb(128, 128, 128);
+    background-image: url(images/spisbg_hover_03_04.png);
+}
+.portfoliocolumn2 .navigpanel3:hover{
+    cursor: pointer;
+    color: rgb(128, 128, 128);
+    background-image: url(images/spisbg_hover_03_04.png);
+}
+.portfoliocolumn2 .navigpanel4:hover{
+    cursor: pointer;
+    color: rgb(128, 128, 128);
+    background-image: url(images/spisbg_hover_03_04.png);
+}
+.portfoliocolumn2 .navigpanel5:hover{
+    cursor: pointer;
+    color: rgb(128, 128, 128);
+    background-image: url(images/spisbg_hover_03_04.png);
+}
+.portfoliocolumn2 .navigpaneldark p{
+    margin-left: 10px;
+    padding-top: 3%;
+}
+.portfoliocolumn2 .portfolionavigfeat{
+    margin-top: 15px;
+    margin-left: 15px;
+    display: inline-block;
+    font-size: 32px;
+    font-family: "Myriad Pro";
+    color: rgb(255, 255, 255);
+    line-height: 0.844;
+    text-align: left;
+    text-shadow: 1.414px 1.414px 3px rgba(0, 0, 0, 0.004);
+}
+.portfoliocolumn2 .portfolionavigtemp{
+    font-size: 18.669px;
+    font-family: "FuturaBT";
+    color: rgb(170, 170, 170);
+    line-height: 1.446;
+    text-align: left;
+    display: inline-block;
+}
+.portfoliocolumn2 .portnavigbox{
+    float: left;
+    margin-top: 10px;
+    margin-left: 15px;
+    width: 218px;
+    height: 186px;
+}
+.portfoliocolumn2 .portnavigbox .portnavigimg{
+    width: 218px;
+    height: 96px;
+    background-image: url(images/portnavigimg_12.png);
+}
+.portfoliocolumn2 .portnavigbox .portnavigbg{
+    width: 218px;
+    height: 90px;
+    background-image: url(images/portnavigimgbg_12_14.png);
+}
+.portfoliocolumn2 .portnavigbox .portnaviglogo1{
+    font-size: 16px;
+    font-family: "Arial";
+    color: rgb(255, 255, 255);
+    line-height: 1.687;
+    text-align: left;
+    padding-top: 10px;
+    margin-left: 15px;
+}
+.portfoliocolumn2 .portnavigbox .portnavigtext1{
+    font-size: 10.668px;
+    font-family: "Tahoma";
+    color: rgb(255, 255, 255);
+    line-height: 1.125;
+    text-align: left;
+    margin-top: 5px;
+    margin-left: 15px;
+    margin-right: 5px;
+}
+.portfoliocolumn2 .portnavigtext1 .bluespan{
+    color: rgb(171, 235, 255);
+}
+.portfoliocolumn2 .portnavigbox .underspan{
+    text-decoration-line: underline;
+}
+
 
   
   
   
+
+  
+
